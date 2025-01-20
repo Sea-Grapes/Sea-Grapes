@@ -8,7 +8,7 @@ I am also very lazy and basically never finish anything lmao
 <details open>
   <summary>✨ Github Stats</summary>
 
-  ![General Stats](https://github-readme-stats.vercel.app/api?username=sea-grapes&show_icons=true&line_height=20&&hide_rank=true&theme=transparent)
+  ![General Stats](https://github-readme-stats.vercel.app/api?username=sea-grapes&show_icons=true&line_height=20&theme=transparent)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sea-Grapes&layout=compact&theme=transparent)
 </details>
 
