@@ -12,5 +12,6 @@ I am also very lazy and basically never finish anything lmao
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sea-Grapes&layout=compact&theme=transparent)
 </details>
 
+Currently working on: website?
 
-Come say hi at https://seagrapes.vercel.app/chat 🙂
+Come say hi at https://blurp.dev/chat 🙂
