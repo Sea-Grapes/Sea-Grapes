@@ -15,7 +15,7 @@ I am also very lazy and basically never finish anything lmao
 
 ![My Stack](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,bun,svelte,react,tailwind,threejs&theme=light)
 
-![Other](https://skillicons.dev/icons?i=java,python,godot,ai,ps,figma&theme=light)
+![Other](https://skillicons.dev/icons?i=c,java,python,godot,ai,ps,figma&theme=light)
 
 </details>
 
