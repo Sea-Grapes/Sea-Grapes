@@ -1,7 +1,6 @@
 # Hi, I'm Sea Grapes 👋
 
-I like to build cool projects on the web. Sometimes they actually function properly.  
-I am also very lazy and basically never finish anything lol
+I like to build cool projects on the web. Sometimes they actually function properly.
 
 <details open>
   <summary>✨ Github Stats</summary>
