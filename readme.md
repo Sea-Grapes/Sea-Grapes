@@ -1,4 +1,4 @@
-# Hi, I'm Sea Grapes 👋
+# Hi, I'm Ethan 👋
 
 I like to build cool projects on the web. Sometimes they actually function properly.
 
